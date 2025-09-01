@@ -1,6 +1,6 @@
 # Netflix Movies & TV Shows Dashboard
 
-![Power BI Dashboard](https://via.placeholder.com/800x450?text=Netflix+Content+Dashboard+Screenshot)
+![Power BI Dashboard](Dashboard-pic.png)
 
 A comprehensive Power BI dashboard analyzing Netflix's content catalog from 2008-2021.
 
